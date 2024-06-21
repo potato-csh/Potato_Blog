@@ -892,7 +892,7 @@ discuss:
 #---------------------------
 archive:
   banner_img: /img/default.png
-  banner_img_height: 100
+  banner_img_height: 55
   banner_mask_alpha: 0.3
 
 
@@ -903,7 +903,7 @@ archive:
 category:
   enable: true
   banner_img: /img/default.png
-  banner_img_height: 100
+  banner_img_height: 55
   banner_mask_alpha: 0.3
 
   # 分类的排序字段，前面带减号是倒序，不带减号是正序
@@ -932,7 +932,7 @@ category:
 tag:
   enable: true
   banner_img: /img/default.png
-  banner_img_height: 100
+  banner_img_height: 55
   banner_mask_alpha: 0.3
   tagcloud:
     min_font: 15
@@ -949,7 +949,7 @@ tag:
 about:
   enable: true
   banner_img: /img/default.png
-  banner_img_height: 100
+  banner_img_height: 55
   banner_mask_alpha: 0.3
   avatar: /img/avatar.png
   name: "Potato's Blog"
